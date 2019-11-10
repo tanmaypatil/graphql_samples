@@ -1,0 +1,8 @@
+mutation {
+  updateVote(postId: 2) {
+    id
+    votes
+    authorId
+  }
+  
+}
