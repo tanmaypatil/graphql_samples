@@ -1,0 +1,10 @@
+mutation {
+ insertPayment(instruction : 
+   { creditor : "A2",
+     debtor : "A3",
+     amount : 100000
+    
+  }) 
+ 
+}
+  
